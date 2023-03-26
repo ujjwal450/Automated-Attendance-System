@@ -1,0 +1,10 @@
+.card{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 6rem;
+  position: relative;
+  background-color: #a892ee;
+  padding: 1rem;
+  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+}
